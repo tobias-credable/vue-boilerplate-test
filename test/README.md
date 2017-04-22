@@ -19,6 +19,10 @@ npm run build --report
 
 # Vue devtools for chrome
 https://github.com/vuejs/vue-devtools
+
+#Template Structure
+http://vuejs-templates.github.io/webpack/structure.html
+
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
