@@ -5,6 +5,9 @@
 ## Build Setup
 
 ``` bash
+# First off, install vue-cli globally
+npm install -g vue-cli
+
 # install dependencies
 npm install
 
@@ -20,7 +23,7 @@ npm run build --report
 # Vue devtools for chrome
 https://github.com/vuejs/vue-devtools
 
-#Template Structure
+#Template Structure and other docs
 http://vuejs-templates.github.io/webpack/structure.html
 
 ```
