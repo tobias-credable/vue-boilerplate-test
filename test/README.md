@@ -8,6 +8,8 @@
 # First off, install vue-cli globally
 npm install -g vue-cli
 
+## Secondly, clone the repo
+
 # install dependencies
 npm install
 
