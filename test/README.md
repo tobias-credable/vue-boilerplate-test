@@ -28,4 +28,6 @@ http://vuejs-templates.github.io/webpack/structure.html
 
 ```
 
+Easy learning guide on udemy for devs new to Vue: https://www.udemy.com/vuejs-2-the-complete-guide/learn/v4/overview
+
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
